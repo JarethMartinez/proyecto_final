@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1700837343 source:f:\mi unidad\segundo semestre\programación estructurada\proyecto\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1700854801 f:\mi unidad\segundo semestre\programación estructurada\proyecto\proyecto_final\funciones.h
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1700763044 source:c:\users\usuario\documents\awawa\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1700836897 c:\users\usuario\documents\awawa\proyecto_final\funciones.h
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
